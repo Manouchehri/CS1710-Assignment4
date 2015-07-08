@@ -1,8 +1,8 @@
-# CS1710 - Assignment 3
+# CS1710 - Assignment 4
 
 ## Overview
 
-Answer to "Part I: Tracing" can be found in `PartI/Trace.txt`.
+Answers to "Part I: Tracing" can be found in `PartI/Trace*.txt`.
 
 Answers to "Part II: Programming Exercises" can be found in `PartII/src/*.java`.
 

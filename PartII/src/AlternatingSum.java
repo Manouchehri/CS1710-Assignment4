@@ -8,14 +8,15 @@
  */
 public class AlternatingSum {
     public static void main(String[] args) {
-        int[] sample = {1, 4, 9, 17, 9, 7, 4, 9, 11};
+        int[] sample = {1, 4, 9, 16, 9, 7, 4, 9, 11};
         System.out.println(altSum(sample));
     }
     public static int altSum(int[] input) {
         int holder = 0;
         int flip = 1;
         for(int i = 0; i < input.length; i++, flip*=-1)
-            holder += input[0]*flip;
+            holder += input[i]*flip;
+
         return holder;
     }
 }

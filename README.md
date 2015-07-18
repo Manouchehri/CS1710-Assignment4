@@ -2,7 +2,7 @@
 
 ## Overview
 
-Answers to "Part I: Tracing" can be found in `PartI/Trace*.txt`.
+Answers to "Part I: Tracing" can be found in `PartI/Trace*.md`.
 
 Answers to "Part II: Programming Exercises" can be found in `PartII/src/*.java`.
 

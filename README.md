@@ -14,4 +14,4 @@ To export to a .zip from the repository, run the following.
 
 *Warning: This will try to remove all zip files, regardless of name.*
 
-Also, an updated .zip can always be found on my (GitHub account)[https://github.com/Manouchehri/].
+Also, an updated .zip can always be found on my [GitHub account](https://github.com/Manouchehri/).
